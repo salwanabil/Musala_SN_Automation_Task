@@ -1,0 +1,158 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "Musala_SN_Automation_Task",
+      "children" : [ {
+        "name" : "testcases.ContactUsTest",
+        "children" : [ {
+          "name" : "testCase1_s",
+          "uid" : "43dbeb8c1220e14f",
+          "parentUid" : "521487b405d2e387cbd66f4c64b8e555",
+          "status" : "broken",
+          "time" : {
+            "start" : 1646087909403,
+            "stop" : 1646087909421,
+            "duration" : 18
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "521487b405d2e387cbd66f4c64b8e555"
+      } ],
+      "uid" : "082cc6b1a9d75b1e93d803bde872a823"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "Test Suite",
+    "children" : [ {
+      "name" : "Chrome",
+      "children" : [ {
+        "name" : "testcases.ContactUsTest",
+        "children" : [ {
+          "name" : "screenshotAndDeleteCookies",
+          "uid" : "42d2186de97bf15e",
+          "parentUid" : "6423004adc73c4ff7f6a73ac511de974",
+          "status" : "broken",
+          "time" : {
+            "start" : 1646863369490,
+            "stop" : 1646863369490,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6423004adc73c4ff7f6a73ac511de974"
+      } ],
+      "uid" : "800d6b290413a64352bfc4449694ab48"
+    }, {
+      "name" : "All Tests Chrome",
+      "children" : [ {
+        "name" : "testcases.CompanyTest",
+        "children" : [ {
+          "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+          "uid" : "e0f7adf8dc578ad3",
+          "parentUid" : "c05c4c3e8d83911084dfdb29c168c784",
+          "status" : "broken",
+          "time" : {
+            "start" : 1646864925397,
+            "stop" : 1646864956196,
+            "duration" : 30799
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c05c4c3e8d83911084dfdb29c168c784"
+      }, {
+        "name" : "testcases.ContactUsTest",
+        "children" : [ {
+          "name" : "fillContactUs",
+          "uid" : "4c91ee0145d919d2",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646864978788,
+            "stop" : 1646864981810,
+            "duration" : 3022
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+        }, {
+          "name" : "fillContactUs",
+          "uid" : "e73c65d1ea973fd3",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646864986014,
+            "stop" : 1646864989897,
+            "duration" : 3883
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+        }, {
+          "name" : "fillContactUs",
+          "uid" : "24cd22862d0c6507",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646864993477,
+            "stop" : 1646864996643,
+            "duration" : 3166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+        }, {
+          "name" : "fillContactUs",
+          "uid" : "6bf0dbf7b65ed43c",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646865000730,
+            "stop" : 1646865003673,
+            "duration" : 2943
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+        }, {
+          "name" : "fillContactUs",
+          "uid" : "7f5015755714703f",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1646865008059,
+            "stop" : 1646865010868,
+            "duration" : 2809
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+        }, {
+          "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+          "uid" : "a9ccd13d3a30341a",
+          "parentUid" : "ab8f1e5336fc4db64381a0c671fa1101",
+          "status" : "broken",
+          "time" : {
+            "start" : 1646865012419,
+            "stop" : 1646865012419,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ab8f1e5336fc4db64381a0c671fa1101"
+      } ],
+      "uid" : "3007f264cd37f5835c415d00030c032b"
+    } ],
+    "uid" : "70f4612f25dd624e3fa5910864552138"
+  } ]
+}

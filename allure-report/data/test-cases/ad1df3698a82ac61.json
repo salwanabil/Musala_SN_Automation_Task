@@ -1,0 +1,139 @@
+{
+  "uid" : "ad1df3698a82ac61",
+  "name" : "fillContactUs",
+  "fullName" : "testcases.ContactUsTest.fillContactUs",
+  "historyId" : "a252ba291e72aaf47e63f2924cd4049a",
+  "time" : {
+    "start" : 1646087722905,
+    "stop" : 1646087729969,
+    "duration" : 7064
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "loadBaseUrl",
+    "time" : {
+      "start" : 1646087717570,
+      "stop" : 1646087722830,
+      "duration" : 5260
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "startDriver",
+    "time" : {
+      "start" : 1646087555937,
+      "stop" : 1646087581779,
+      "duration" : 25842
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "screenshotAndDeleteCookies",
+    "time" : {
+      "start" : 1646087729974,
+      "stop" : 1646087741158,
+      "duration" : 11184
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1646087741211,
+      "stop" : 1646087745844,
+      "duration" : 4633
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillContactUs"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Musala_SN_Automation_Task"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-52IH5KO"
+  }, {
+    "name" : "thread",
+    "value" : "1476@DESKTOP-52IH5KO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Test FN5"
+  }, {
+    "name" : "arg1",
+    "value" : "test@test@test.com"
+  }, {
+    "name" : "arg2",
+    "value" : "02233366111"
+  }, {
+    "name" : "arg3",
+    "value" : "Your message is here 5"
+  }, {
+    "name" : "arg4",
+    "value" : "Your test subject is here 5"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad1df3698a82ac61.json",
+  "parameterValues" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+}

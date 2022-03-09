@@ -1,0 +1,560 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-52IH5KO",
+    "children" : [ {
+      "name" : "9364@DESKTOP-52IH5KO.main(1)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "4c91ee0145d919d2",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864978788,
+          "stop" : 1646864981810,
+          "duration" : 3022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "7f5015755714703f",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646865008059,
+          "stop" : 1646865010868,
+          "duration" : 2809
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "6bf0dbf7b65ed43c",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646865000730,
+          "stop" : 1646865003673,
+          "duration" : 2943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "e73c65d1ea973fd3",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864986014,
+          "stop" : 1646864989897,
+          "duration" : 3883
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      }, {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "a9ccd13d3a30341a",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646865012419,
+          "stop" : 1646865012419,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "e0f7adf8dc578ad3",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646864925397,
+          "stop" : 1646864956196,
+          "duration" : 30799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "24cd22862d0c6507",
+        "parentUid" : "d79adf089df17d3cb89afbfe6c31e5cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864993477,
+          "stop" : 1646864996643,
+          "duration" : 3166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+      } ],
+      "uid" : "d79adf089df17d3cb89afbfe6c31e5cd"
+    }, {
+      "name" : "6016@DESKTOP-52IH5KO.main(1)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "40492e9266044c07",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864697710,
+          "stop" : 1646864702231,
+          "duration" : 4521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "d3abab04559d8652",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864668018,
+          "stop" : 1646864672551,
+          "duration" : 4533
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "b51f2da831771333",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864684100,
+          "stop" : 1646864691410,
+          "duration" : 7310
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "5f05b96c26a2407c",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864605552,
+          "stop" : 1646864612449,
+          "duration" : 6897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      }, {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "d284ac60833242d1",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646864556196,
+          "stop" : 1646864577904,
+          "duration" : 21708
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "c5b524571b1f39a9",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646864708634,
+          "stop" : 1646864708635,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "36c7937789c1109f",
+        "parentUid" : "ac542f12d82adf249867bbbe9b6c76b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646864637690,
+          "stop" : 1646864648227,
+          "duration" : 10537
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      } ],
+      "uid" : "ac542f12d82adf249867bbbe9b6c76b1"
+    }, {
+      "name" : "7416@DESKTOP-52IH5KO.TestNG-test=Chrome-2(18)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "d65610a71a8ca154",
+        "parentUid" : "dafb65527e59b2a6d6ca8fc337a11fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862692826,
+          "stop" : 1646862704841,
+          "duration" : 12015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "d536aad2edf68dfd",
+        "parentUid" : "dafb65527e59b2a6d6ca8fc337a11fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862712781,
+          "stop" : 1646862716168,
+          "duration" : 3387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      } ],
+      "uid" : "dafb65527e59b2a6d6ca8fc337a11fe1"
+    }, {
+      "name" : "7416@DESKTOP-52IH5KO.TestNG-test=Chrome-1(17)",
+      "children" : [ {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "6bae4f2f54c8f39d",
+        "parentUid" : "8ba4ef32ec493ed8ea98f4e175c438f2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862684548,
+          "stop" : 1646862712818,
+          "duration" : 28270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8ba4ef32ec493ed8ea98f4e175c438f2"
+    }, {
+      "name" : "5332@DESKTOP-52IH5KO.main(1)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "7c17e5371d9d6392",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646863702004,
+          "stop" : 1646863706303,
+          "duration" : 4299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "5dd3a756c47b5eaf",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646863680784,
+          "stop" : 1646863684948,
+          "duration" : 4164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "936c09b23052e3d",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646863720758,
+          "stop" : 1646863724014,
+          "duration" : 3256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+      }, {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "ee8af5764c6e5328",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646863725578,
+          "stop" : 1646863725578,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "369d3c2708c4a977",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646863713919,
+          "stop" : 1646863716921,
+          "duration" : 3002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "caa1fa5bc19bf7b7",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646863690339,
+          "stop" : 1646863694891,
+          "duration" : 4552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      }, {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "bcdf280be7d8a493",
+        "parentUid" : "04d92c6b659f26906d46adef539506df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646863627045,
+          "stop" : 1646863643780,
+          "duration" : 16735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04d92c6b659f26906d46adef539506df"
+    }, {
+      "name" : "7416@DESKTOP-52IH5KO.TestNG-test=Chrome-3(19)",
+      "children" : [ {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "2351a0d932165e80",
+        "parentUid" : "2c0384619f1548515e1fd3bb4a0476d4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862655193,
+          "stop" : 1646862655221,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c0384619f1548515e1fd3bb4a0476d4"
+    }, {
+      "name" : "9288@DESKTOP-52IH5KO.TestNG-test=Chrome-2(19)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "193b2a51696b926b",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862838691,
+          "stop" : 1646862839080,
+          "duration" : 389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      }, {
+        "name" : "screenshotAndDeleteCookies",
+        "uid" : "42d2186de97bf15e",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646863369490,
+          "stop" : 1646863369490,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "7a7a28536de6cd42",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646863369556,
+          "stop" : 1646863369556,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "166113f532208874",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646863369645,
+          "stop" : 1646863369647,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "cef42bbeaad93c36",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862827007,
+          "stop" : 1646862830816,
+          "duration" : 3809
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "10109da12fbebcdd",
+        "parentUid" : "e33c9f26191d6f70de1ff9d81ace087f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646863369603,
+          "stop" : 1646863369603,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+      } ],
+      "uid" : "e33c9f26191d6f70de1ff9d81ace087f"
+    }, {
+      "name" : "1476@DESKTOP-52IH5KO.main(1)",
+      "children" : [ {
+        "name" : "fillContactUs",
+        "uid" : "a98bbd91b8a5d9c1",
+        "parentUid" : "d8fee88fe5b7bc02cab6341a7486435c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646087679759,
+          "stop" : 1646087684188,
+          "duration" : 4429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN3", "Testingmusala.com", "999-123-666-544-55", "Your message is here 3", "Your test subject is here 3" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "fc9988c6737cd5ce",
+        "parentUid" : "d8fee88fe5b7bc02cab6341a7486435c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646087700218,
+          "stop" : 1646087705622,
+          "duration" : 5404
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "116957ff231b0827",
+        "parentUid" : "d8fee88fe5b7bc02cab6341a7486435c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646087660745,
+          "stop" : 1646087665285,
+          "duration" : 4540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN2", "Testing@musala", "201112392412", "Your message 2 is here", "Your test subject is here 2" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "ad1df3698a82ac61",
+        "parentUid" : "d8fee88fe5b7bc02cab6341a7486435c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646087722905,
+          "stop" : 1646087729969,
+          "duration" : 7064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN5", "test@test@test.com", "02233366111", "Your message is here 5", "Your test subject is here 5" ]
+      }, {
+        "name" : "fillContactUs",
+        "uid" : "3d422a13d99a75b4",
+        "parentUid" : "d8fee88fe5b7bc02cab6341a7486435c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646087629794,
+          "stop" : 1646087637352,
+          "duration" : 7558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Test FN1", "test.test", "300065421987", "Your message 1 is here", "Your test subject is here 1" ]
+      } ],
+      "uid" : "d8fee88fe5b7bc02cab6341a7486435c"
+    }, {
+      "name" : "9288@DESKTOP-52IH5KO.TestNG-test=Chrome-1(18)",
+      "children" : [ {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "8437c3005aaf4e51",
+        "parentUid" : "01534bdfeb45e474bf941bdcaa9d0341",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862822585,
+          "stop" : 1646862829672,
+          "duration" : 7087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "01534bdfeb45e474bf941bdcaa9d0341"
+    }, {
+      "name" : "7508@DESKTOP-52IH5KO.main(1)",
+      "children" : [ {
+        "name" : "testCase1_s",
+        "uid" : "43dbeb8c1220e14f",
+        "parentUid" : "c84da1f96225c719c0de205eb611f010",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646087909403,
+          "stop" : 1646087909421,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c84da1f96225c719c0de205eb611f010"
+    }, {
+      "name" : "9288@DESKTOP-52IH5KO.TestNG-test=Chrome-3(20)",
+      "children" : [ {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "8f1b33bbf9b8ab50",
+        "parentUid" : "754681df9ee66a0879018f5e1f27a940",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646862795179,
+          "stop" : 1646862795227,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "754681df9ee66a0879018f5e1f27a940"
+    } ],
+    "uid" : "85d09d52637a40cb4398e883fc19d8c0"
+  } ]
+}

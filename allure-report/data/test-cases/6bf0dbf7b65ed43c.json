@@ -1,0 +1,174 @@
+{
+  "uid" : "6bf0dbf7b65ed43c",
+  "name" : "fillContactUs",
+  "fullName" : "testcases.ContactUsTest.fillContactUs",
+  "historyId" : "54d59735cf310cb79ede2b40ff68a295",
+  "time" : {
+    "start" : 1646865000730,
+    "stop" : 1646865003673,
+    "duration" : 2943
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "loadBaseUrl",
+    "time" : {
+      "start" : 1646864998175,
+      "stop" : 1646865000721,
+      "duration" : 2546
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "startDriver",
+    "time" : {
+      "start" : 1646864958458,
+      "stop" : 1646864960812,
+      "duration" : 2354
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "screenshotAndDeleteCookies",
+    "time" : {
+      "start" : 1646865003682,
+      "stop" : 1646865005428,
+      "duration" : 1746
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1646865012426,
+      "stop" : 1646865013405,
+      "duration" : 979
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillContactUs"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "All Tests Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.ContactUsTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-52IH5KO"
+  }, {
+    "name" : "thread",
+    "value" : "9364@DESKTOP-52IH5KO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Test FN4"
+  }, {
+    "name" : "arg1",
+    "value" : "testOut-In@test_test"
+  }, {
+    "name" : "arg2",
+    "value" : "+120333115478"
+  }, {
+    "name" : "arg3",
+    "value" : "Your message is here 4"
+  }, {
+    "name" : "arg4",
+    "value" : "Your test subject is here 4"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b51f2da831771333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646864684100,
+        "stop" : 1646864691410,
+        "duration" : 7310
+      }
+    }, {
+      "uid" : "369d3c2708c4a977",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646863713919,
+        "stop" : 1646863716921,
+        "duration" : 3002
+      }
+    }, {
+      "uid" : "10109da12fbebcdd",
+      "status" : "skipped",
+      "statusDetails" : "Error communicating with the remote browser. It may have died.\nBuild info: version: '4.1.2', revision: '9a5a329c5a'\nSystem info: host: 'DESKTOP-52IH5KO', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [bcb6b908c9efe575486da7a85d2c7185, screenshot {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\salwa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49263/devtoo..., se:cdpVersion: 99.0.4844.51, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "time" : {
+        "start" : 1646863369603,
+        "stop" : 1646863369603,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fc9988c6737cd5ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646087700218,
+        "stop" : 1646087705622,
+        "duration" : 5404
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bf0dbf7b65ed43c.json",
+  "parameterValues" : [ "Test FN4", "testOut-In@test_test", "+120333115478", "Your message is here 4", "Your test subject is here 4" ]
+}

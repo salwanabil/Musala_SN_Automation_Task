@@ -1,0 +1,91 @@
+[ {
+  "uid" : "4c91ee0145d919d2",
+  "name" : "fillContactUs",
+  "time" : {
+    "start" : 1646864978788,
+    "stop" : 1646864981810,
+    "duration" : 3022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bf0dbf7b65ed43c",
+  "name" : "fillContactUs",
+  "time" : {
+    "start" : 1646865000730,
+    "stop" : 1646865003673,
+    "duration" : 2943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0f7adf8dc578ad3",
+  "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+  "time" : {
+    "start" : 1646864925397,
+    "stop" : 1646864956196,
+    "duration" : 30799
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43dbeb8c1220e14f",
+  "name" : "testCase1_s",
+  "time" : {
+    "start" : 1646087909403,
+    "stop" : 1646087909421,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f5015755714703f",
+  "name" : "fillContactUs",
+  "time" : {
+    "start" : 1646865008059,
+    "stop" : 1646865010868,
+    "duration" : 2809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24cd22862d0c6507",
+  "name" : "fillContactUs",
+  "time" : {
+    "start" : 1646864993477,
+    "stop" : 1646864996643,
+    "duration" : 3166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e73c65d1ea973fd3",
+  "name" : "fillContactUs",
+  "time" : {
+    "start" : 1646864986014,
+    "stop" : 1646864989897,
+    "duration" : 3883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42d2186de97bf15e",
+  "name" : "screenshotAndDeleteCookies",
+  "time" : {
+    "start" : 1646863369490,
+    "stop" : 1646863369490,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a9ccd13d3a30341a",
+  "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+  "time" : {
+    "start" : 1646865012419,
+    "stop" : 1646865012419,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

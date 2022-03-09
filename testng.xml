@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite" parallel="methods" thread-count="5">
-    <listeners>
-        <listener class-name="utilities.ExtentReporterNG"/>
-    </listeners>
-    <test name="Chrome" verbose="2" preserve-order="true" >
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" > <!--<suite name="Test Suite" parallel="methods" thread-count="3">-->
+    <test name="All Tests Chrome" verbose="2" >
         <classes>
-            <class name="testcases.CompanyTest" />
-            <class name="testcases.ContactUsTest" />
-
+            <class name="testcases.CompanyTest"/>
+            <class name="testcases.ContactUsTest"/>
         </classes>
     </test>
 </suite>

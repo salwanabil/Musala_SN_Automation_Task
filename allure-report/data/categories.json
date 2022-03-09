@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nCannot inject @Test annotated Method [testCase1_s] with [class java.lang.String, class java.lang.String, class java.lang.String, class java.lang.String, class java.lang.String].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "children" : [ {
+        "name" : "testCase1_s",
+        "uid" : "43dbeb8c1220e14f",
+        "parentUid" : "8814500ef4a9349ba7a67507a3f24ed3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646087909403,
+          "stop" : 1646087909421,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8814500ef4a9349ba7a67507a3f24ed3"
+    }, {
+      "name" : "Error communicating with the remote browser. It may have died.\nBuild info: version: '4.1.2', revision: '9a5a329c5a'\nSystem info: host: 'DESKTOP-52IH5KO', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [bcb6b908c9efe575486da7a85d2c7185, screenshot {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\salwa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49263/devtoo..., se:cdpVersion: 99.0.4844.51, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "children" : [ {
+        "name" : "screenshotAndDeleteCookies",
+        "uid" : "42d2186de97bf15e",
+        "parentUid" : "92b1c22e26ea63009c5a8b4158e18529",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646863369490,
+          "stop" : 1646863369490,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92b1c22e26ea63009c5a8b4158e18529"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@aria-label='Musala Soft profile photo']\"}\n  (Session info: chrome=99.0.4844.51)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.1.2', revision: '9a5a329c5a'\nSystem info: host: 'DESKTOP-52IH5KO', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [2e960a7a05af9ad5b7117487ba6f2ffe, findElement {using=xpath, value=//a[@aria-label='Musala Soft profile photo']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\salwa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50702}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50702/devtoo..., se:cdpVersion: 99.0.4844.51, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2e960a7a05af9ad5b7117487ba6f2ffe",
+      "children" : [ {
+        "name" : "testCase2_NavigateToCompanyPageAndClicksFacebookIconThenVerifyIt",
+        "uid" : "e0f7adf8dc578ad3",
+        "parentUid" : "7e654a41a471d51f6664eac1507fa8c4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646864925397,
+          "stop" : 1646864956196,
+          "duration" : 30799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e654a41a471d51f6664eac1507fa8c4"
+    }, {
+      "name" : "\nCannot inject @Test annotated Method [testCase1_ValidateErrorTextForInvalidEmailFormat] with [class java.lang.String, class java.lang.String, class java.lang.String, class java.lang.String, class java.lang.String].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "children" : [ {
+        "name" : "testCase1_ValidateErrorTextForInvalidEmailFormat",
+        "uid" : "a9ccd13d3a30341a",
+        "parentUid" : "b048abdb888816ca0744d0be9dbe0a82",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646865012419,
+          "stop" : 1646865012419,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b048abdb888816ca0744d0be9dbe0a82"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
